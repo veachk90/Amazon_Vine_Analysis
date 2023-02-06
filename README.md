@@ -14,11 +14,10 @@ Unpaid counts:38829
 Unpaid 5-star reviews:18246
 Unpaid 5-star proportion: 0.469907
 
-![Counts Dataframes]()
+![Counts Dataframes](https://github.com/veachk90/Amazon_Vine_Analysis/blob/main/Screenshot%20(263).png)
 
-![5-Star Reviews Dataframes]()
+![5-Star Reviews Dataframes](https://github.com/veachk90/Amazon_Vine_Analysis/blob/main/Screenshot%20(264).png)
 
-! [5-Star Proportions Dataframes]()
+![5-Star Proportions Dataframes](https://github.com/veachk90/Amazon_Vine_Analysis/blob/main/Screenshot%20(265).png)
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+
